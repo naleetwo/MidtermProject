@@ -71,7 +71,7 @@
 
 ![데이터전처리2](https://user-images.githubusercontent.com/127808906/235382263-915a3ca8-bba1-46a0-b944-936fd212c0d9.png)
 
-
+![제목 없음](https://user-images.githubusercontent.com/127808906/235401934-17fed4b5-5237-4eb1-8761-8fef8e410db0.png)
 
 ### 3-2 데이터베이스 생성
 #### 환경적 요인과 경제적요인을 정제해서 데이터베이스에 저장한다.

@@ -71,6 +71,9 @@
 
 ![데이터전처리2](https://user-images.githubusercontent.com/127808906/235382263-915a3ca8-bba1-46a0-b944-936fd212c0d9.png)
 
+![버스](https://user-images.githubusercontent.com/129472378/235400841-ae961d76-c6d8-47fc-bb23-d38be7d810c5.PNG)
+
+
 ### 3-2 데이터베이스 생성
 #### 환경적 요인과 경제적요인을 정제해서 데이터베이스에 저장한다.
 ![제목 없음](https://user-images.githubusercontent.com/127808906/235381834-59ce0bfa-e78b-4c6c-bd78-e0b45b3a267e.png)

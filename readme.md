@@ -67,9 +67,13 @@
 
 - 데이터 수집을 하고 **파이썬**을 사용하여 데이터를 알아보기 좋게, 분석하기 좋게 가공한다.
 
+#### 카페/커피숍
+
 ![데이터전처리1](https://user-images.githubusercontent.com/127808906/235382251-1de5ded9-b543-4fef-a986-cc31fb3cf39c.png)
 
 ![데이터전처리2](https://user-images.githubusercontent.com/127808906/235382263-915a3ca8-bba1-46a0-b944-936fd212c0d9.png)
+
+#### 버스정류장 수
 
 ![제목 없음](https://user-images.githubusercontent.com/127808906/235401934-17fed4b5-5237-4eb1-8761-8fef8e410db0.png)
 

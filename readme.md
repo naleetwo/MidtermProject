@@ -71,7 +71,6 @@
 
 ![데이터전처리2](https://user-images.githubusercontent.com/127808906/235382263-915a3ca8-bba1-46a0-b944-936fd212c0d9.png)
 
-![버스](https://user-images.githubusercontent.com/129472378/235400841-ae961d76-c6d8-47fc-bb23-d38be7d810c5.PNG)
 
 
 ### 3-2 데이터베이스 생성

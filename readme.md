@@ -13,6 +13,9 @@
  - 팀원 : 이준규 - 데이터 수집 및 전처리, 시각화, PPT 발표
 
 ### 개발 환경
+
+![종류](https://user-images.githubusercontent.com/127808906/235382737-7daa8bf7-ba0c-412b-932c-e3852eb71dbc.png)
+
 - 'Python 3.9.13'
 - 'R 4.2.3'
 

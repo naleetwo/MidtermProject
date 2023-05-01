@@ -45,11 +45,13 @@
 - **환경적 요인** (ex) 인프라, 범죄건수, ... 등등) 과 **경제적 요인** (ex) 기준금리, GDP, 물가지수, 유동성비율, ...등등)이 
 **아파트 가격**에 영향을 미친다
 
-### 3. 데이터 수집 & 전처리
+### 3-1 데이터 수집 & 전처리
 
 ![데이터전처리1](https://user-images.githubusercontent.com/127808906/235382251-1de5ded9-b543-4fef-a986-cc31fb3cf39c.png)
 
 ![데이터전처리2](https://user-images.githubusercontent.com/127808906/235382263-915a3ca8-bba1-46a0-b944-936fd212c0d9.png)
+
+### 3-2 데이터베이스 
 
 ![제목 없음](https://user-images.githubusercontent.com/127808906/235381834-59ce0bfa-e78b-4c6c-bd78-e0b45b3a267e.png)
 

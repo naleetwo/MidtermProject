@@ -62,6 +62,8 @@
 
 ### 5. 데이터 분석
 
+![상관관계](https://user-images.githubusercontent.com/127808906/235382640-4c0b5953-45e3-491e-9763-b3adf14065f5.png)
+
 ![제목 없음2](https://user-images.githubusercontent.com/127808906/235382027-3c72f087-52f8-474f-ba5b-66601a9f7d86.png)
 
 ![제목 없음1](https://user-images.githubusercontent.com/127808906/235382034-f29c69e2-3cec-4096-b1b1-95e5919acffd.png)

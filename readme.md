@@ -106,8 +106,6 @@
 
 ##### 환경적요인-매매가
 
-![제목 없음3](https://user-images.githubusercontent.com/127808906/235382134-67c98bd4-7225-43f4-a109-bb92b3e6b1fe.png)
-
 ![인프라_매매가](https://user-images.githubusercontent.com/129472378/235405133-b2cd196f-2580-4bc1-8751-56db4be9b864.PNG)
 
 

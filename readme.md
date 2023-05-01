@@ -31,6 +31,7 @@
 - 'Scikit-learn 1.2.2'
 - 'folium 0.14.0'
 - 'plotly 5.9.0'
+- 'ggplot2 3.4.2'
 
 ## 1. 목차
 

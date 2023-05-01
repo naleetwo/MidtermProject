@@ -103,11 +103,18 @@
 
 ![계수](https://user-images.githubusercontent.com/127808906/235404878-0f70bca2-8b0b-47fc-ba7f-02f839a7bbe4.png)
 
+![경제_매매가](https://user-images.githubusercontent.com/129472378/235405113-740266c9-beab-4117-a586-90a8762a472b.PNG)
+
+
 ##### 환경적요인-매매가
 
 ![제목 없음3](https://user-images.githubusercontent.com/127808906/235382134-67c98bd4-7225-43f4-a109-bb92b3e6b1fe.png)
 
+![인프라_매매가](https://user-images.githubusercontent.com/129472378/235405133-b2cd196f-2580-4bc1-8751-56db4be9b864.PNG)
+
+
 ##### 환경적요인-전월세가
+![인프라_전월세](https://user-images.githubusercontent.com/129472378/235405164-574f6e31-4477-4bd1-a33b-f1fe99e2900a.PNG)
 
 #### 6. 결론
 

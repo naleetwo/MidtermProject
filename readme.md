@@ -30,6 +30,7 @@
 - 'Selenium 4.8.3'
 - 'Scikit-learn 1.2.2'
 - 'folium 0.14.0'
+- 'plotly 5.9.0'
 
 ## 1. 목차
 

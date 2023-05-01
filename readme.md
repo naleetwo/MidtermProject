@@ -29,6 +29,7 @@
 - 'Scipy 1.9.1'
 - 'Selenium 4.8.3'
 - 'Scikit-learn 1.2.2'
+- 'folium 0.14.0'
 
 ## 1. 목차
 

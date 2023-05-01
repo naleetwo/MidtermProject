@@ -101,9 +101,7 @@
 
 ##### 경제적요인-매매가
 
-![제목 없음2](https://user-images.githubusercontent.com/127808906/235382027-3c72f087-52f8-474f-ba5b-66601a9f7d86.png)
-
-![제목 없음1](https://user-images.githubusercontent.com/127808906/235382034-f29c69e2-3cec-4096-b1b1-95e5919acffd.png)
+![계수](https://user-images.githubusercontent.com/127808906/235404878-0f70bca2-8b0b-47fc-ba7f-02f839a7bbe4.png)
 
 ##### 환경적요인-매매가
 

@@ -18,6 +18,17 @@
 
 - 'Python 3.9.13'
 - 'R 4.2.3'
+- 'Git 2.40.0.windows.1'
+- 'R studio 2023.03.0+386'
+- 'ERwin Data Modeler r7'
+- 'MariaDB 10.11.1'
+- 'Numpy 1.21.5'
+- 'Pandas 1.4.4'
+- 'matplotlib 3.5.2'
+- 'seaborn 0.11.2'
+- 'Scipy 1.9.1'
+- 'Selenium 4.8.3'
+- 'Scikit-learn 1.2.2'
 
 ## 1. 목차
 

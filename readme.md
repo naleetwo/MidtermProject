@@ -101,8 +101,6 @@
 
 ##### 경제적요인-매매가
 
-![계수](https://user-images.githubusercontent.com/127808906/235404878-0f70bca2-8b0b-47fc-ba7f-02f839a7bbe4.png)
-
 ![경제_매매가](https://user-images.githubusercontent.com/129472378/235405113-740266c9-beab-4117-a586-90a8762a472b.PNG)
 
 

@@ -99,12 +99,21 @@
 - 회귀분석 전에 4가지 조건 선형성, 독립성, 정규성, 등분산성을 확인하고 정확한 회귀분석을 실시했다.
 - 설명력을 통해 우리의 가설의 정확성을 판단하였다.
 
+##### 경제적요인-매매가
+
 ![제목 없음2](https://user-images.githubusercontent.com/127808906/235382027-3c72f087-52f8-474f-ba5b-66601a9f7d86.png)
 
 ![제목 없음1](https://user-images.githubusercontent.com/127808906/235382034-f29c69e2-3cec-4096-b1b1-95e5919acffd.png)
 
+##### 환경적요인-매매가
+
 ![제목 없음3](https://user-images.githubusercontent.com/127808906/235382134-67c98bd4-7225-43f4-a109-bb92b3e6b1fe.png)
 
+##### 환경적요인-전월세가
+
+#### 6. 결론
+
+#### 7. 의견
 
 
 

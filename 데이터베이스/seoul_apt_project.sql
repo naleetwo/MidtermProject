@@ -14,12 +14,11 @@
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-
+CREATE DATABASE seoul_project;
 --
 -- Table structure for table `2018year`
 --
 
-DROP TABLE IF EXISTS `2018year`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `2018year` (
@@ -77,7 +76,6 @@ UNLOCK TABLES;
 -- Table structure for table `2019year`
 --
 
-DROP TABLE IF EXISTS `2019year`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `2019year` (
@@ -135,7 +133,6 @@ UNLOCK TABLES;
 -- Table structure for table `2020year`
 --
 
-DROP TABLE IF EXISTS `2020year`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `2020year` (
@@ -193,7 +190,6 @@ UNLOCK TABLES;
 -- Table structure for table `2021year`
 --
 
-DROP TABLE IF EXISTS `2021year`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `2021year` (
@@ -251,7 +247,6 @@ UNLOCK TABLES;
 -- Table structure for table `economics`
 --
 
-DROP TABLE IF EXISTS `economics`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `economics` (
@@ -353,4 +348,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-05-01 10:09:43
+-- Dump completed on 2023-05-01 10:57:24
